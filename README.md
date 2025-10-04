@@ -21,4 +21,4 @@ Version Control: Git & GitHub
 <img width="941" height="649" alt="Screenshot (26)" src="https://github.com/user-attachments/assets/9ac1764a-9dd7-428d-9897-33214a945c02" />
 🚀 Getting Started
 Clone this repository
-git clone:https://github.com/upeka200163/Grocery-Plex.git
+git clone: https://github.com/upeka200163/Grocery-Plex.git
