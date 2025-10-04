@@ -5,11 +5,11 @@ We guarantee 15-minute delivery to keep your food fresh, healthy, and convenient
 
 📌 Features
 
-✔️ Responsive & modern UI
-✔️ Homepage with hero banner & promotions
-✔️ Shop section with fresh arrivals & best offers
-✔️ About Us & Contact sections
-✔️ Footer with Quick Links, Newsletter & Socials
+✔️ Responsive & modern UI<br>
+✔️ Homepage with hero banner & promotions<br>
+✔️ Shop section with fresh arrivals & best offers<br>
+✔️ About Us & Contact sections<br>
+✔️ Footer with Quick Links, Newsletter & Socials<br>
 ✔️ Fast & lightweight (HTML, CSS, JavaScript)
 
 🖥️ Tech Stack
