@@ -1,8 +1,10 @@
 🛒 GroceryPlex – Online Grocery Store
+
 GroceryPlex is a modern, responsive online grocery store that delivers fresh and high-quality groceries right to your doorstep.
 We guarantee 15-minute delivery to keep your food fresh, healthy, and convenient! 🚚💨
 
 📌 Features
+
 ✔️ Responsive & modern UI
 ✔️ Homepage with hero banner & promotions
 ✔️ Shop section with fresh arrivals & best offers
@@ -11,6 +13,7 @@ We guarantee 15-minute delivery to keep your food fresh, healthy, and convenient
 ✔️ Fast & lightweight (HTML, CSS, JavaScript)
 
 🖥️ Tech Stack
+
 Frontend: HTML5, CSS3, JavaScript
 Frameworks: None (Pure Frontend Project)
 Design: Responsive grid, modern styling
